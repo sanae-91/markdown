@@ -102,3 +102,13 @@
 - 첫번째
    - 두번째
       - 세번째
+
+
+# 4. 링크
+## 외부링크
+```
+[Title](url)
+ex)
+[나무위키-마크다운](https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)
+```
+[나무위키-마크다운](https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4)
